@@ -3,6 +3,7 @@ let ligne = 0
 let direction = 0
 function faireQuelqueChose () {
     liste = [0, 5]
+    liste[0] = 0
 }
 basic.forever(function () {
     let colonne = 0
